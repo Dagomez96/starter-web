@@ -12,4 +12,4 @@ This is a simple web project, deployment  can be on any web ...
 ## How to Contribute
 
 Please fork this repository and then issue pull Requests for review.
-2014 Git.Training
+2014 Git.Training. All rights reserved.
