@@ -1,5 +1,6 @@
 # Starter Web Repo
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example.
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example, THEN
+MORE CHANGES FORM MU FEATURE2.
 ## Introduction
 As stated above, the main porpose is to provide simple example
 ## Purpose
